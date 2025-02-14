@@ -133,6 +133,7 @@ Error generating stack: `+i.message+`
         }
         .skill{
           color: #433e3ef2;
+          margin-bottom: 1rem;
           p{
             font-size: 13px;
           }
@@ -147,7 +148,7 @@ Error generating stack: `+i.message+`
           .skill{
             width: 48%;
             height: 120px;
-            margin-bottom: 1rem;
+            margin-bottom: 0px;
           }
         }
 
