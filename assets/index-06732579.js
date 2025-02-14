@@ -147,6 +147,7 @@ Error generating stack: `+i.message+`
           .skill{
             width: 48%;
             height: 120px;
+            margin-bottom: 1rem;
           }
         }
 
@@ -158,7 +159,7 @@ Error generating stack: `+i.message+`
         .projects{
             display: flex;
             gap: 1rem;
-            padding-top: 3rem;
+            padding-top: 1rem;
             overflow-x: auto;
             padding-bottom: 1rem;
         }
