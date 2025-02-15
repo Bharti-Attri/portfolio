@@ -11,6 +11,8 @@ const Home = () => {
             display: flex;
             flex-direction: column;
             align-items: center;
+            justify-content: center;
+            gap: 1rem;
         }
         .home-image{
             width: 250px;

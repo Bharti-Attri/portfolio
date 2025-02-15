@@ -5,7 +5,7 @@ const About = () => {
     <div>
       <style jsx="true">{`
         .about-container{
-          padding: 2rem;
+          padding: 2rem 1rem;
           background-color: #fff;
           }
           h1{
