@@ -67,6 +67,8 @@ Error generating stack: `+i.message+`
             display: flex;
             flex-direction: column;
             align-items: center;
+            justify-content: center;
+            gap: 1rem;
         }
         .home-image{
             width: 250px;
@@ -95,7 +97,7 @@ Error generating stack: `+i.message+`
 
       `}),g.jsxs("section",{className:"home-container",id:"home",children:[g.jsx("img",{className:"home-image",src:"./girl.avif",alt:"image of girl"}),g.jsxs("div",{className:"text-container",children:[g.jsx("div",{className:"name",children:"Bharti"}),g.jsx("div",{className:"role",children:"MERN Stack Web Developer"})]})]})]}),Dd=()=>g.jsxs("div",{children:[g.jsx("style",{jsx:"true",children:`
         .about-container{
-          padding: 2rem;
+          padding: 2rem 1rem;
           background-color: #fff;
           }
           h1{
